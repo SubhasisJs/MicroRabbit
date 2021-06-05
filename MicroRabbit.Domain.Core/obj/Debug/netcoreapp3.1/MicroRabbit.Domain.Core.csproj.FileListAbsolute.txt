@@ -1,0 +1,8 @@
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.deps.json
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+G:\Projects\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

@@ -1,0 +1,17 @@
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.deps.json
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.json
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.genruntimeconfig.cache
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CopyComplete
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+G:\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
